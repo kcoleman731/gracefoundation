@@ -1,0 +1,166 @@
+body {
+	background-color: #ffffff;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+
+h1, h2, h3, p, a{
+	color: gray;
+}
+
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 100;
+	font-size: 40px;
+	margin-left: 55%;
+	padding-top: 2%;
+	width: 500px;
+	color: white;	
+}
+
+h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 34px;
+	font-weight: 100;
+	margin-left: 10%;
+	padding-top: 2%;
+}
+
+h3 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	font-weight: 200;
+}
+
+p {
+	font-family: 'Arial', sans-serif;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-weight: 100;
+	font-style: italic;
+}
+
+#statement {
+	margin-left:55%;
+	width: 400px;
+	color: white;
+	font-style: normal;
+}
+
+#header, #footer, #section1, #section2, #section3, #section4 {
+	overflow: hidden;
+	padding-bottom: 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#header {
+	height: 110px;
+}
+
+#footer {
+	background-color: #6f7685;
+	height: 60px;
+}
+
+#section1 {
+	background-image: url(images/child.png);
+	background-size: 100%;
+	height: 500px;
+}
+
+#section2 {
+	background-color: #efefef;
+}
+
+#section3 {
+	background-color: #cfd7e4;
+}
+
+#section4 {
+	background-color: #ffffff;
+}
+
+#logo {
+	vertical-align:middle;
+	margin-left: 10%;
+	font-size: 70px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 200;
+	float: left;
+	margin-top: 1.5%;
+}
+
+#nav {	
+	margin-right: 10%;
+	float: right;
+	margin-top: 5%;
+}
+
+#navlink {	
+	margin-left: 60px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	font-weight: 100;
+	text-decoration: none !important;
+}
+
+#footerText {
+	margin-top: 2%;
+}
+
+#footerNav {	
+	margin-left: 40px;
+	color: white;
+	font-size: 12px;
+	font-family: 'Ubuntu', sans-serif;
+	text-decoration: none !important;
+}
+
+#whatWeDo, #whoWeAre, #howToHelp {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#children {
+	margin-left: 10%;
+}
+
+.item{
+    width:31%;
+	margin: 1%;
+	text-align: center;
+	float:left;
+}
+
+#staff {
+	width: 45%;
+	float: left;
+	margin-left: 5%;
+}
+
+#profile {
+	float: left;
+}
+
+#profileText {
+	margin-left: 40%;
+	
+}
+
+#name {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	font-style: normal;
+	margin-bottom: 0;
+}
+
+#position {
+	font-style: italic;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#profileDescription {
+	font-style: normal;
+}
