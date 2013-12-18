@@ -4,7 +4,7 @@ First, install locally.  From within your project root:
 
     bundle install
 
-Then, to test locally, from within your ``site`` directory, run:
+Then, to test locally, run:
 
     rackup
 
